@@ -4,6 +4,3 @@ Repositório para documentar a planilha financeira produzida para um desafio do 
 #Ferramenta utilizada no projeto:
 Microsoft Excel
 
-#Planilha
-<a href="https://github.com/elisJane/ProjetoPlanilhaFinanceira/blob/main/Projeto_Planilha_Financeira.xlsx"> Clique aqui para ver</a>
-
